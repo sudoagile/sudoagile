@@ -1,4 +1,4 @@
-# 👋 Hola, soy Eduardo Ramírez
+# 👋 Hola, soy Eduardo Ramírez De Lama
 
 ### Computer Engineer | Founder @ Sudo Agile S.A. | Software Development | Cloud | ERP | AI | DevOps
 
